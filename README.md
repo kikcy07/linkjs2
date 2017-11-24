@@ -1,0 +1,2 @@
+# linkjs2
+linkjsblog
